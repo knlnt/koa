@@ -18,5 +18,6 @@
   "homepage": "https://github.com/knlnt/koa#readme",
   "dependencies": {
     "koa": "^2.13.0"
-  }
+  },
+  "devDependencies": {}
 }
