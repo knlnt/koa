@@ -1,0 +1,22 @@
+{
+  "name": "koa-learn",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knlnt/koa.git"
+  },
+  "author": "knlnt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knlnt/koa/issues"
+  },
+  "homepage": "https://github.com/knlnt/koa#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
